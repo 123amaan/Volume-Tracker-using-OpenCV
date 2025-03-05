@@ -7,8 +7,10 @@
 > This Project uses OpenCV and MediaPipe to Control system volume 
 
 ## DEMO
- 
-  
+
+![1](https://github.com/user-attachments/assets/e94e0b1b-373f-4480-9022-954b629cf516)
+![2](https://github.com/user-attachments/assets/9e5eacbc-1a73-4091-beb9-5632a5f2f1fa)
+![3](https://github.com/user-attachments/assets/85914a16-5443-4739-8bd3-462b3a16c89e)
 
 ## 💾 REQUIREMENTS
 + opencv-python
