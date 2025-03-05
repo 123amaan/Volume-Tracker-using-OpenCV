@@ -5,6 +5,10 @@
  </div>
 
 > This Project uses OpenCV and MediaPipe to Control system volume 
+## Objective & Problem Statement
+The objective of the OpenCV Volume Tracker project was to develop a real-time hand gesture-based volume control system using computer vision techniques. The project aimed to provide a touch-free, intuitive method for adjusting volume on a computer or media device, particularly useful in scenarios where physical contact is inconvenient, such as while cooking, working out, or during presentations.
+
+Traditional volume control methods involve physical buttons or software sliders, which require direct interaction. This project solved the problem by leveraging computer vision and hand-tracking to allow users to control volume simply by moving their fingers in the air, making it more convenient and hygienic.
 
 ## DEMO
 
